@@ -14,4 +14,4 @@ When a user doesn't know the file's location or name, the software aids in file 
 
 # View Project images 
 
-![CheckOut images](./Project/Overview of Project/Overview1.png)
+![CheckOut images](./Project/Overview/Overview1.png)
