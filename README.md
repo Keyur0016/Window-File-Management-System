@@ -14,4 +14,4 @@ When a user doesn't know the file's location or name, the software aids in file 
 
 # View Project images 
 
-[CheckOut images](https://github.com/Keyur0016/Window-File-Management-System/tree/main/Project/Overview%20of%20Project)
+![CheckOut images](./Project)
